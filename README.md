@@ -1,5 +1,5 @@
 Overview:
-This is a demo automation project using playwright to test account creation and editing fields of Account Settings and Addresses section of website www.stampinup.com.Project is written using Page Object Model concept. Pages folder in framework contains POM files, test data is in JSON format under testData folder, test script test-stampinup.spec.ts is under tests folder. testFixture file is used to create page objects. Playwright report folder contains HTML report. Project uses faker library to generate unique credentials and country-to-iso package to get country ISO codes.
+This is a demo automation project using playwright to test account creation and editing fields of Account Settings and Addresses section of website www.stampinup.com. Project is written using Page Object Model concept. Pages folder in framework contains POM files, test data is in JSON format under testData folder, test script test-stampinup.spec.ts is under tests folder. testFixture file is used to create page objects. Playwright report folder contains HTML report. Project uses faker library to generate unique credentials and country-to-iso package to get country ISO codes.
 
 Prerequisites:
 npm
